@@ -1,0 +1,4 @@
+Este|es|un|conjunto|de|registros|
+Habia|una|vez|un|registro|almacenado|
+Ultimo|registro|ingresado|al|File|
+y|si|hacemos|un|muneco|
